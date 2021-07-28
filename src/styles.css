@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+li {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-left: 15px;
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+}
+
+#search-box {
+  border: 3px solid black;
+  width: 40%;
+}
